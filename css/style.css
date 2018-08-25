@@ -1,0 +1,97 @@
+body {
+  font-family:"Raleway",sans-serif;
+  font-size:12px;
+  background-color:#f5f8fa;
+  margin:0;
+  left:0;
+}
+h1 {
+  margin-left:2%;
+}
+h5 {
+  margin-bottom:0px;
+  margin-top:10px;
+}
+#wrapper {
+  display:flex;
+  flex-direction: column;
+
+}
+small {
+  margin-right:2%;
+}
+div[name="errorf"]{
+  margin-right:2%;
+}
+form {
+  background-color:#fff;
+  text-align:right;
+  border-top:1px solid #ccc;
+  border-bottom:1px solid #ccc;
+  padding-right:25%;
+
+
+}
+input {
+  border-left:1px solid black;
+}
+input,a {
+  margin-top:24px;
+  width:50%;
+  border:1px solid white;
+  background-color:#f5f8fa;
+  height:20px;
+  margin-right:2%;
+}
+.btns {
+  padding:15px;
+  margin-bottom:20px;
+  cursor:pointer;
+  background-color:#071826;
+}
+.btns[value=Submit]{
+    padding-top:10px;
+    padding-bottom:20px;
+    color:white;
+}
+.btns[value=Reset]{
+  color:white;
+}
+.btns:hover {
+  opacity:0.9;
+}
+.text:focus {
+  outline:none;
+}
+
+a {
+  text-decoration:none;
+  color:black;
+}
+::placeholder {
+  font-size:10px;
+  padding-left:5px;
+}
+#g,#gs {
+  width:14px;
+  margin-right:2%;
+  margin-top:0px;
+}
+
+p {
+  margin-bottom:0px;
+}
+#r1,#r2{
+  float:right;
+  margin-right:2%;
+}
+#c1,#c2 {
+  float:right;
+  margin-right:2%;
+}
+#age,#description label{
+  margin-right:2%;
+}
+.bec {
+
+}

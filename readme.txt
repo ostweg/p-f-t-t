@@ -1,0 +1,1 @@
+Change directory on data.php line:101 to your prefered directory. Otherwise it won't count up the filenames.
